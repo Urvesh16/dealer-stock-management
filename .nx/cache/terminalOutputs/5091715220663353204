@@ -1,0 +1,19 @@
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m          [2m | [22m[1mNames[22m                                 [2m | [22m [1mRaw Size[22m[2m | [22m[1mEstimated Transfer Size[22m[0m[39m
+[37m[0m[92mmain.8c6d5e128d7f2aaa.js[39m[37m     [2m | [22mmain                                  [2m | [22m[96m414.94 kB[39m[37m[2m | [22m              [96m108.46 kB[39m[37m[0m[39m
+[37m[0m[92mstyles.5db3342049af3e8f.css[39m[37m  [2m | [22mstyles                                [2m | [22m [96m83.04 kB[39m[37m[2m | [22m                [96m8.38 kB[39m[37m[0m[39m
+[37m[0m[92mpolyfills.223b8b7db959a521.js[39m[37m[2m | [22mpolyfills                             [2m | [22m [96m33.06 kB[39m[37m[2m | [22m               [96m10.66 kB[39m[37m[0m[39m
+[37m[0m[92mruntime.2d62e930e230db84.js[39m[37m  [2m | [22mruntime                               [2m | [22m  [96m2.84 kB[39m[37m[2m | [22m                [96m1.36 kB[39m[37m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1m [22m                            [2m | [22m[1mInitial Total[22m                         [2m | [22m[1m[93m533.87 kB[39m[37m[22m[2m | [22m              [1m128.86 kB[22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m             [2m | [22m[1mNames[22m                                 [2m | [22m [1mRaw Size[22m[2m | [22m[1mEstimated Transfer Size[22m[0m[39m
+[37m[0m[92m639.358c23635d0dfb6c.js[39m[37m      [2m | [22mpart-management-part-management-module[2m | [22m  [96m8.99 kB[39m[37m[2m | [22m                [96m2.52 kB[39m[37m[0m[39m
+[37m[0m[92m424.fa629ca86437cee2.js[39m[37m      [2m | [22mmechanic-mechanic-module              [2m | [22m  [96m8.17 kB[39m[37m[2m | [22m                [96m2.23 kB[39m[37m[0m[39m
+[37m[0m[92m875.3d1b0674aba25eef.js[39m[37m      [2m | [22mpart-part-module                      [2m | [22m  [96m7.42 kB[39m[37m[2m | [22m                [96m2.14 kB[39m[37m[0m[39m
+[37m[0m[92m422.66fd6b6f302defb1.js[39m[37m      [2m | [22mdealer-dealer-module                  [2m | [22m  [96m6.24 kB[39m[37m[2m | [22m                [96m1.80 kB[39m[37m[0m[39m
+[37m[0m[92m723.85ec989329cf85ba.js[39m[37m  [39m[37m    [2m | [22mdashboard-dashboard-routing-module    [2m | [22m  [96m4.20 kB[39m[37m[2m | [22m                [96m1.45 kB[39m[37m[0m[39m
+[37m[0m[92mcommon.0c9207246d045239.js[39m[37m   [2m | [22mcommon                                [2m | [22m  [96m2.37 kB[39m[37m[2m | [22m              [96m638 bytes[39m[37m[0m[39m
+[37m[0m[92m217.5cf6d562f05899a8.js[39m[37m      [2m | [22mlogin-login-module                    [2m | [22m[96m628 bytes[39m[37m[2m | [22m              [96m299 bytes[39m[37m[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-10T20:40:44.463Z[39m[37m[22m - Hash: [1m[37me363321517d71d36[39m[37m[22m - Time: [1m[37m56261[39m[37m[22mms[0m[39m

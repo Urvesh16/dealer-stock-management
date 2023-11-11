@@ -1,0 +1,16 @@
+
+npx nx build
+
+npx nx serve
+
+npx json-server --watch db.json
+
+
+User Name:admin
+Password:admin
+role:admin
+
+
+
+User Name:dealer
+Password:dealer

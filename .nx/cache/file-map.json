@@ -1,0 +1,907 @@
+{
+  "version": "6.0",
+  "nxVersion": "17.1.1",
+  "deps": {
+    "@angular/animations": "^16.2.0",
+    "@angular/cdk": "^16.2.11",
+    "@angular/common": "^16.2.0",
+    "@angular/compiler": "^16.2.0",
+    "@angular/core": "^16.2.0",
+    "@angular/forms": "^16.2.0",
+    "@angular/material": "^16.2.11",
+    "@angular/platform-browser": "^16.2.0",
+    "@angular/platform-browser-dynamic": "^16.2.0",
+    "@angular/router": "^16.2.0",
+    "@ngrx/effects": "^16.3.0",
+    "@ngrx/entity": "^16.3.0",
+    "@ngrx/store": "^16.3.0",
+    "@ngrx/store-devtools": "^16.3.0",
+    "rxjs": "~7.8.0",
+    "tslib": "^2.3.0",
+    "zone.js": "~0.13.0",
+    "@angular-devkit/build-angular": "^16.2.9",
+    "@angular-devkit/core": "^16.2.9",
+    "@angular-devkit/schematics": "^16.2.9",
+    "@angular/cli": "^16.2.9",
+    "@angular/compiler-cli": "^16.2.0",
+    "@nx/angular": "17.1.1",
+    "@nx/workspace": "17.1.1",
+    "@schematics/angular": "^16.2.9",
+    "@types/jasmine": "~4.3.0",
+    "jasmine-core": "~4.6.0",
+    "karma": "~6.4.0",
+    "karma-chrome-launcher": "~3.2.0",
+    "karma-coverage": "~2.2.0",
+    "karma-jasmine": "~5.1.0",
+    "karma-jasmine-html-reporter": "~2.1.0",
+    "nx": "17.1.1",
+    "typescript": "~5.1.3"
+  },
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "nonProjectFiles": [],
+    "projectFileMap": {
+      "dealer-stock-management": [
+        {
+          "file": ".editorconfig",
+          "hash": "6686520031028425313"
+        },
+        {
+          "file": ".gitignore",
+          "hash": "13044518069027839699"
+        },
+        {
+          "file": ".nx/cache/5091715220663353204/code",
+          "hash": "1838281907459330133"
+        },
+        {
+          "file": ".nx/cache/5091715220663353204/outputs/dist/dealer-stock-management/217.5cf6d562f05899a8.js",
+          "hash": "6363892184469945948"
+        },
+        {
+          "file": ".nx/cache/5091715220663353204/outputs/dist/dealer-stock-management/3rdpartylicenses.txt",
+          "hash": "1030543354754616237"
+        },
+        {
+          "file": ".nx/cache/5091715220663353204/outputs/dist/dealer-stock-management/422.66fd6b6f302defb1.js",
+          "hash": "15811375380195353108"
+        },
+        {
+          "file": ".nx/cache/5091715220663353204/outputs/dist/dealer-stock-management/424.fa629ca86437cee2.js",
+          "hash": "4457627893848629556"
+        },
+        {
+          "file": ".nx/cache/5091715220663353204/outputs/dist/dealer-stock-management/639.358c23635d0dfb6c.js",
+          "hash": "18091388672978828560"
+        },
+        {
+          "file": ".nx/cache/5091715220663353204/outputs/dist/dealer-stock-management/723.85ec989329cf85ba.js",
+          "hash": "12234001758776565308"
+        },
+        {
+          "file": ".nx/cache/5091715220663353204/outputs/dist/dealer-stock-management/875.3d1b0674aba25eef.js",
+          "hash": "13494442111806225338"
+        },
+        {
+          "file": ".nx/cache/5091715220663353204/outputs/dist/dealer-stock-management/common.0c9207246d045239.js",
+          "hash": "18406013721216986735"
+        },
+        {
+          "file": ".nx/cache/5091715220663353204/outputs/dist/dealer-stock-management/favicon.ico",
+          "hash": "3464744996580215640"
+        },
+        {
+          "file": ".nx/cache/5091715220663353204/outputs/dist/dealer-stock-management/index.html",
+          "hash": "12458297026051856286"
+        },
+        {
+          "file": ".nx/cache/5091715220663353204/outputs/dist/dealer-stock-management/main.8c6d5e128d7f2aaa.js",
+          "hash": "10229262282963264474"
+        },
+        {
+          "file": ".nx/cache/5091715220663353204/outputs/dist/dealer-stock-management/polyfills.223b8b7db959a521.js",
+          "hash": "6893734848266040035"
+        },
+        {
+          "file": ".nx/cache/5091715220663353204/outputs/dist/dealer-stock-management/runtime.2d62e930e230db84.js",
+          "hash": "7326561075389158254"
+        },
+        {
+          "file": ".nx/cache/5091715220663353204/outputs/dist/dealer-stock-management/styles.5db3342049af3e8f.css",
+          "hash": "13722060108591312549"
+        },
+        {
+          "file": ".nx/cache/5091715220663353204/terminalOutput",
+          "hash": "6872366447591134648"
+        },
+        {
+          "file": ".nx/cache/5091715220663353204.commit",
+          "hash": "4664556114322093609"
+        },
+        {
+          "file": ".nx/cache/5091715220663353204.tar.gz",
+          "hash": "11462128494889694903"
+        },
+        {
+          "file": ".nx/cache/cloud/2311.09.8.hotfix2/index.js",
+          "hash": "1478706641485954736",
+          "deps": [
+            "npm:os",
+            "npm:assert",
+            "npm:buffer",
+            "npm:zlib",
+            "npm:events",
+            "npm:fs",
+            "npm:path",
+            [
+              "npm:fs",
+              "dynamic"
+            ],
+            [
+              "npm:path",
+              "dynamic"
+            ],
+            [
+              "npm:os",
+              "dynamic"
+            ],
+            [
+              "npm:child_process",
+              "dynamic"
+            ],
+            [
+              "npm:crypto",
+              "dynamic"
+            ],
+            [
+              "npm:tty",
+              "dynamic"
+            ],
+            [
+              "npm:util",
+              "dynamic"
+            ],
+            [
+              "npm:url",
+              "dynamic"
+            ],
+            [
+              "npm:http",
+              "dynamic"
+            ],
+            [
+              "npm:https",
+              "dynamic"
+            ],
+            [
+              "npm:stream",
+              "dynamic"
+            ],
+            [
+              "npm:assert",
+              "dynamic"
+            ],
+            [
+              "npm:zlib",
+              "dynamic"
+            ],
+            [
+              "npm:perf_hooks",
+              "dynamic"
+            ],
+            [
+              "npm:events",
+              "dynamic"
+            ],
+            [
+              "npm:string_decoder",
+              "dynamic"
+            ],
+            [
+              "npm:constants",
+              "dynamic"
+            ]
+          ]
+        },
+        {
+          "file": ".nx/cache/cloud/2311.09.8.hotfix2/lib/daemon/process-run-end.js",
+          "hash": "1407987010601608693",
+          "deps": [
+            "npm:path",
+            "npm:os",
+            "npm:assert",
+            "npm:buffer",
+            "npm:zlib",
+            "npm:events",
+            "npm:fs",
+            [
+              "npm:fs",
+              "dynamic"
+            ],
+            [
+              "npm:path",
+              "dynamic"
+            ],
+            [
+              "npm:os",
+              "dynamic"
+            ],
+            [
+              "npm:child_process",
+              "dynamic"
+            ],
+            [
+              "npm:crypto",
+              "dynamic"
+            ],
+            [
+              "npm:tty",
+              "dynamic"
+            ],
+            [
+              "npm:util",
+              "dynamic"
+            ],
+            [
+              "npm:url",
+              "dynamic"
+            ],
+            [
+              "npm:http",
+              "dynamic"
+            ],
+            [
+              "npm:https",
+              "dynamic"
+            ],
+            [
+              "npm:stream",
+              "dynamic"
+            ],
+            [
+              "npm:assert",
+              "dynamic"
+            ],
+            [
+              "npm:zlib",
+              "dynamic"
+            ],
+            [
+              "npm:perf_hooks",
+              "dynamic"
+            ],
+            [
+              "npm:events",
+              "dynamic"
+            ],
+            [
+              "npm:string_decoder",
+              "dynamic"
+            ]
+          ]
+        },
+        {
+          "file": ".nx/cache/cloud/2311.09.8.hotfix2/lib/heartbeat/heartbeat-process.js",
+          "hash": "5633484099946442012",
+          "deps": [
+            "npm:os",
+            "npm:fs",
+            "npm:path",
+            [
+              "npm:fs",
+              "dynamic"
+            ],
+            [
+              "npm:path",
+              "dynamic"
+            ],
+            [
+              "npm:os",
+              "dynamic"
+            ],
+            [
+              "npm:child_process",
+              "dynamic"
+            ],
+            [
+              "npm:crypto",
+              "dynamic"
+            ],
+            [
+              "npm:tty",
+              "dynamic"
+            ],
+            [
+              "npm:util",
+              "dynamic"
+            ],
+            [
+              "npm:url",
+              "dynamic"
+            ],
+            [
+              "npm:http",
+              "dynamic"
+            ],
+            [
+              "npm:https",
+              "dynamic"
+            ],
+            [
+              "npm:stream",
+              "dynamic"
+            ],
+            [
+              "npm:assert",
+              "dynamic"
+            ],
+            [
+              "npm:zlib",
+              "dynamic"
+            ],
+            [
+              "npm:perf_hooks",
+              "dynamic"
+            ]
+          ]
+        },
+        {
+          "file": ".nx/cache/cloud/verify.lock",
+          "hash": "4753566164752661730"
+        },
+        {
+          "file": ".nx/cache/d/daemon.log",
+          "hash": "12075729555510912754"
+        },
+        {
+          "file": ".nx/cache/d/server-process.json",
+          "hash": "10913338836567494999"
+        },
+        {
+          "file": ".nx/cache/file-map.json",
+          "hash": "16855583413457905741"
+        },
+        {
+          "file": ".nx/cache/lockfile.hash",
+          "hash": "6596257679621640077"
+        },
+        {
+          "file": ".nx/cache/parsed-lock-file.json",
+          "hash": "7966531464143162676"
+        },
+        {
+          "file": ".nx/cache/project-graph.json",
+          "hash": "10056425313075574845"
+        },
+        {
+          "file": ".nx/cache/run.json",
+          "hash": "7648116484915125825"
+        },
+        {
+          "file": ".nx/cache/terminalOutputs/5091715220663353204",
+          "hash": "6872366447591134648"
+        },
+        {
+          "file": ".nx/cache/terminalOutputs/8019401224797108637",
+          "hash": "6090875414027212660"
+        },
+        {
+          "file": ".vscode/extensions.json",
+          "hash": "12343942279124280405"
+        },
+        {
+          "file": ".vscode/launch.json",
+          "hash": "17038929134016848735"
+        },
+        {
+          "file": ".vscode/tasks.json",
+          "hash": "5336636969995539451"
+        },
+        {
+          "file": "README.md",
+          "hash": "8197174157144760340"
+        },
+        {
+          "file": "db.json",
+          "hash": "10456184125747320547"
+        },
+        {
+          "file": "imp.txt",
+          "hash": "14432144842917283623"
+        },
+        {
+          "file": "nx.json",
+          "hash": "17338365702636508047"
+        },
+        {
+          "file": "package-lock.json",
+          "hash": "17413708986099736946"
+        },
+        {
+          "file": "package.json",
+          "hash": "6502438893350136735",
+          "deps": [
+            "npm:@angular/animations",
+            "npm:@angular/cdk",
+            "npm:@angular/common",
+            "npm:@angular/compiler",
+            "npm:@angular/core",
+            "npm:@angular/forms",
+            "npm:@angular/material",
+            "npm:@angular/platform-browser",
+            "npm:@angular/platform-browser-dynamic",
+            "npm:@angular/router",
+            "npm:@ngrx/effects",
+            "npm:@ngrx/entity",
+            "npm:@ngrx/store",
+            "npm:@ngrx/store-devtools",
+            "npm:rxjs",
+            "npm:tslib",
+            "npm:zone.js",
+            "npm:@angular-devkit/build-angular",
+            "npm:@angular-devkit/core",
+            "npm:@angular-devkit/schematics",
+            "npm:@angular/cli",
+            "npm:@angular/compiler-cli",
+            "npm:@nx/angular",
+            "npm:@nx/workspace",
+            "npm:@schematics/angular",
+            "npm:@types/jasmine",
+            "npm:jasmine-core",
+            "npm:karma",
+            "npm:karma-chrome-launcher",
+            "npm:karma-coverage",
+            "npm:karma-jasmine",
+            "npm:karma-jasmine-html-reporter",
+            "npm:nx",
+            "npm:typescript"
+          ]
+        },
+        {
+          "file": "project.json",
+          "hash": "4655768619547806824"
+        },
+        {
+          "file": "src/app/actions/auth.actions.ts",
+          "hash": "15254169198664417732",
+          "deps": [
+            "npm:@ngrx/store"
+          ]
+        },
+        {
+          "file": "src/app/app-routing.module.ts",
+          "hash": "661634651831325614",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "src/app/app.component.css",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "src/app/app.component.html",
+          "hash": "14011458944305260651"
+        },
+        {
+          "file": "src/app/app.component.spec.ts",
+          "hash": "6995707905667150553",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "src/app/app.component.ts",
+          "hash": "5506602274411353801",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/app.module.ts",
+          "hash": "5733268135727749692",
+          "deps": [
+            "npm:@angular/platform-browser",
+            "npm:@angular/core",
+            "npm:@angular/forms",
+            "npm:@angular/router",
+            "npm:@angular/common",
+            "npm:@angular/material",
+            "npm:@ngrx/store",
+            "npm:@ngrx/effects"
+          ]
+        },
+        {
+          "file": "src/app/dashboard/dashboard-routing.module.ts",
+          "hash": "5343837607569092381",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "src/app/dashboard/dashboard.component.css",
+          "hash": "13014831977769470536"
+        },
+        {
+          "file": "src/app/dashboard/dashboard.component.html",
+          "hash": "17153898064644403708"
+        },
+        {
+          "file": "src/app/dashboard/dashboard.component.spec.ts",
+          "hash": "13268531653547974577",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/dashboard/dashboard.component.ts",
+          "hash": "14697813017820572217",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/router",
+            "npm:@angular/animations"
+          ]
+        },
+        {
+          "file": "src/app/dashboard/dashboard.module.ts",
+          "hash": "8837692283795788364",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "src/app/dealer/dealer-routing.module.ts",
+          "hash": "2686281419503281125",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "src/app/dealer/dealer.component.css",
+          "hash": "12773522490499471040"
+        },
+        {
+          "file": "src/app/dealer/dealer.component.html",
+          "hash": "16049285954895062704"
+        },
+        {
+          "file": "src/app/dealer/dealer.component.spec.ts",
+          "hash": "14773363562532317332",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/dealer/dealer.component.ts",
+          "hash": "8871063669466382346",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/dealer/dealer.module.ts",
+          "hash": "11889460192708724117",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:@angular/router",
+            "npm:@angular/forms"
+          ]
+        },
+        {
+          "file": "src/app/dealer/dealer.service.ts",
+          "hash": "16781651214432352049",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "src/app/dealer/dealer.ts",
+          "hash": "8519381293132473666"
+        },
+        {
+          "file": "src/app/effects/auth.effects.ts",
+          "hash": "1872872619130639527",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@ngrx/effects",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "src/app/login/login-routing.module.ts",
+          "hash": "17673849480475608749",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "src/app/login/login.component.css",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "src/app/login/login.component.html",
+          "hash": "7269910575702711639"
+        },
+        {
+          "file": "src/app/login/login.component.spec.ts",
+          "hash": "15222502735042189921",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/login/login.component.ts",
+          "hash": "13748760760583968189",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/router",
+            "npm:@ngrx/store",
+            "npm:rxjs",
+            "npm:@angular/forms"
+          ]
+        },
+        {
+          "file": "src/app/login/login.module.ts",
+          "hash": "13827629727047463573",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:@angular/router",
+            "npm:@angular/forms"
+          ]
+        },
+        {
+          "file": "src/app/mechanic/mechanic-routing.module.ts",
+          "hash": "8076304087961934163",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "src/app/mechanic/mechanic.component.css",
+          "hash": "9470893152469147554"
+        },
+        {
+          "file": "src/app/mechanic/mechanic.component.html",
+          "hash": "9633487056068885990"
+        },
+        {
+          "file": "src/app/mechanic/mechanic.component.spec.ts",
+          "hash": "7560814020752697578",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/mechanic/mechanic.component.ts",
+          "hash": "13626148542559276326",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/mechanic/mechanic.model.ts",
+          "hash": "5808479390251452935"
+        },
+        {
+          "file": "src/app/mechanic/mechanic.module.ts",
+          "hash": "6329800469950096869",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:@angular/router",
+            "npm:@angular/forms"
+          ]
+        },
+        {
+          "file": "src/app/mechanic/mechanic.service.ts",
+          "hash": "9105186815066531685",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "src/app/part/part-routing.module.ts",
+          "hash": "17891784325615590790",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "src/app/part/part.component.css",
+          "hash": "14607372683662564286"
+        },
+        {
+          "file": "src/app/part/part.component.html",
+          "hash": "18395855513301812919"
+        },
+        {
+          "file": "src/app/part/part.component.spec.ts",
+          "hash": "3929387106570160880",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/part/part.component.ts",
+          "hash": "4763521953024136375",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/part/part.module.ts",
+          "hash": "809478588539579",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:@angular/router",
+            "npm:@angular/forms"
+          ]
+        },
+        {
+          "file": "src/app/part/part.service.ts",
+          "hash": "3603792267074448900",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "src/app/part/parts.model.ts",
+          "hash": "4349232133660400701"
+        },
+        {
+          "file": "src/app/part-management/cart-part-management.model.ts",
+          "hash": "16163855469512750591"
+        },
+        {
+          "file": "src/app/part-management/cartItem.model.ts",
+          "hash": "3052804742690698753"
+        },
+        {
+          "file": "src/app/part-management/part-management-routing.module.ts",
+          "hash": "4323266035514456117",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "src/app/part-management/part-management.component.css",
+          "hash": "6288550101830663985"
+        },
+        {
+          "file": "src/app/part-management/part-management.component.html",
+          "hash": "2886633328319584398"
+        },
+        {
+          "file": "src/app/part-management/part-management.component.spec.ts",
+          "hash": "14051114732594529943",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/part-management/part-management.component.ts",
+          "hash": "10940497266976242213",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/part-management/part-management.module.ts",
+          "hash": "5814524587342718931",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:@angular/router",
+            "npm:@angular/forms"
+          ]
+        },
+        {
+          "file": "src/app/part-management/part-management.service.ts",
+          "hash": "6592858257982500534",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "src/app/reducers/auth.reducer.ts",
+          "hash": "1108956719491429770",
+          "deps": [
+            "npm:@ngrx/store"
+          ]
+        },
+        {
+          "file": "src/app/services/auth.guard.ts",
+          "hash": "421646686326224857",
+          "deps": [
+            "npm:@angular/router",
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/services/auth.service.ts",
+          "hash": "4626329198124115604",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "src/app/shared/shared/decimal-space.pipe.ts",
+          "hash": "1089658595014065581",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/shared/shared/shared.module.ts",
+          "hash": "18178382764268221567",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/shared/utilities.ts",
+          "hash": "7589522526398062481"
+        },
+        {
+          "file": "src/assets/.gitkeep",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "src/favicon.ico",
+          "hash": "3464744996580215640"
+        },
+        {
+          "file": "src/index.html",
+          "hash": "16538193631746200366"
+        },
+        {
+          "file": "src/main.ts",
+          "hash": "12246588107753938993",
+          "deps": [
+            "npm:@angular/platform-browser-dynamic"
+          ]
+        },
+        {
+          "file": "src/styles.css",
+          "hash": "16169541993633988072"
+        },
+        {
+          "file": "tsconfig.app.json",
+          "hash": "17337579397915052279"
+        },
+        {
+          "file": "tsconfig.json",
+          "hash": "1047940026627514556"
+        },
+        {
+          "file": "tsconfig.spec.json",
+          "hash": "15575553540147145788"
+        }
+      ]
+    }
+  }
+}

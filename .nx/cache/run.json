@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx build",
+    "startTime": "2023-11-10T20:39:04.724Z",
+    "endTime": "2023-11-10T20:40:44.813Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "dealer-stock-management:build:production",
+      "target": "build",
+      "projectName": "dealer-stock-management",
+      "hash": "5091715220663353204",
+      "startTime": "2023-11-10T20:39:04.736Z",
+      "endTime": "2023-11-10T20:40:44.812Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 0
+    }
+  ]
+}

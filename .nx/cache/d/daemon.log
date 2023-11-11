@@ -1,0 +1,193 @@
+[NX Daemon Server] - 2023-11-10T20:37:42.890Z - Started listening on: \\.\pipe\nx\C:\Users\Urvesh\AppData\Local\Temp\77c57bbb3c82ff2e958d\d.sock
+[NX Daemon Server] - 2023-11-10T20:37:42.915Z - [WATCHER]: Subscribed to changes within: f:\dealer-stock-management (native)
+[NX Daemon Server] - 2023-11-10T20:37:42.919Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-10T20:37:42.922Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-10T20:37:42.926Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-10T20:37:42.930Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-10T20:37:43.770Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-10T20:37:43.771Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-10T20:37:43.771Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-10T20:37:44.800Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-10T20:37:44.803Z - Time taken for 'total for creating and serializing project graph' 1869.6693000001833ms
+[NX Daemon Server] - 2023-11-10T20:37:44.804Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-10T20:37:44.804Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1870. Response time: 4.
+[NX Daemon Server] - 2023-11-10T20:37:44.811Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-11-10T20:37:44.813Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-10T20:37:44.813Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-11-10T20:37:44.813Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-10T20:37:44.817Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2023-11-10T20:37:44.817Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2023-11-10T20:37:44.817Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2023-11-10T20:39:02.634Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-10T20:39:02.635Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-10T20:39:02.637Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-10T20:39:02.641Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-10T20:39:02.642Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-10T20:39:02.643Z - Time taken for 'total for creating and serializing project graph' 0.4315999997779727ms
+[NX Daemon Server] - 2023-11-10T20:39:02.644Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-10T20:39:02.644Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2023-11-10T20:39:02.891Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2023-11-10T20:39:02.892Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2023-11-10T20:39:02.892Z - Handled HASH_TASKS. Handling time: 72. Response time: 1.
+[NX Daemon Server] - 2023-11-10T20:39:10.728Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-11-10T20:39:10.730Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-10T20:39:10.731Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-11-10T20:39:10.736Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-10T20:39:10.736Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-10T20:39:10.739Z - Time taken for 'total for creating and serializing project graph' 0.3624999998137355ms
+[NX Daemon Server] - 2023-11-10T20:39:10.741Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-10T20:39:10.742Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 5.
+[NX Daemon Server] - 2023-11-10T20:40:09.355Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:09.412Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:09.470Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:09.535Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:09.604Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:09.735Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:11.977Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:12.029Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:12.099Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:12.185Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:13.767Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:13.894Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:14.158Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:14.567Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:15.031Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:15.627Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:16.616Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:17.795Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:17.914Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:18.024Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:18.070Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:18.161Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:18.344Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:18.401Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:18.751Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:18.826Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:19.241Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:19.623Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:19.747Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:19.814Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:20.018Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:20.147Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:20.249Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:20.504Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:20.604Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:20.671Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:20.749Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:20.809Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:21.215Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:21.267Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:21.321Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:21.395Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:21.457Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:21.515Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:21.567Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:21.619Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:21.677Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:21.732Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:21.790Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:21.849Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:21.907Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:21.958Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:22.011Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:22.076Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:22.128Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:22.181Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:22.576Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:22.648Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:22.761Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:22.829Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:22.887Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:22.941Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:22.996Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:23.061Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:23.117Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:23.173Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:23.253Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:23.309Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:23.362Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:23.414Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:23.484Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:23.535Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:23.621Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:23.695Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:23.752Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:23.805Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:23.862Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:23.984Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:24.037Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:24.090Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:24.142Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:24.198Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:24.262Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:24.323Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:24.382Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:39.827Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:42.362Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:42.415Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:44.510Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:40:44.547Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-10T20:40:44.695Z - [REQUEST]: Responding to the client. recordOutputsHash
+[NX Daemon Server] - 2023-11-10T20:40:44.696Z - Done responding to the client recordOutputsHash
+[NX Daemon Server] - 2023-11-10T20:40:44.696Z - Handled RECORD_OUTPUTS_HASH. Handling time: 2. Response time: 1.
+[NX Daemon Server] - 2023-11-10T20:40:46.211Z - [REQUEST]: Responding to the client. PROCESS_IN_BACKGROUND
+[NX Daemon Server] - 2023-11-10T20:40:46.212Z - Done responding to the client PROCESS_IN_BACKGROUND
+[NX Daemon Server] - 2023-11-10T20:40:46.212Z - Handled PROCESS_IN_BACKGROUND. Handling time: 1268. Response time: 1.
+[NX Daemon Server] - 2023-11-10T20:40:46.213Z - Uploading file artifacts
+[NX Daemon Server] - 2023-11-10T20:40:46.253Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-10T20:40:49.820Z - Done uploading file artifacts
+[NX Daemon Server] - 2023-11-10T20:40:49.820Z - Sending EndRun request
+[NX Daemon Server] - 2023-11-10T20:40:50.196Z - Done sending EndRun request
+[NX Daemon Server] - 2023-11-10T20:41:10.851Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-10T20:41:10.852Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-10T20:41:10.854Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-10T20:41:10.858Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-10T20:41:10.858Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-10T20:41:10.860Z - Time taken for 'total for creating and serializing project graph' 0.24120000004768372ms
+[NX Daemon Server] - 2023-11-10T20:41:10.861Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-10T20:41:10.861Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 3.
+[NX Daemon Server] - 2023-11-10T20:41:10.996Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2023-11-10T20:41:10.998Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2023-11-10T20:41:10.999Z - Handled HASH_TASKS. Handling time: 8. Response time: 3.
+[NX Daemon Server] - 2023-11-10T20:41:11.865Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-11-10T20:41:11.873Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-10T20:41:11.874Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-11-10T20:41:11.882Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-10T20:41:11.882Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-10T20:41:11.885Z - Time taken for 'total for creating and serializing project graph' 0.350899999961257ms
+[NX Daemon Server] - 2023-11-10T20:41:11.887Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-10T20:41:11.887Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 5.
+[NX Daemon Server] - 2023-11-10T20:41:28.462Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:41:28.539Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:41:34.125Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:41:34.206Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:41:34.279Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:42:54.209Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:42:54.220Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2023-11-10T20:42:54.423Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-10T20:42:54.423Z - [REQUEST]: db.json
+[NX Daemon Server] - 2023-11-10T20:42:54.424Z - [REQUEST]: .~db.json
+[NX Daemon Server] - 2023-11-10T20:42:54.591Z - Time taken for 'hash changed files from watcher' 44.786999999545515ms
+[NX Daemon Server] - 2023-11-10T20:43:03.201Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:43:03.204Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2023-11-10T20:43:03.337Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-10T20:43:03.338Z - [REQUEST]: db.json
+[NX Daemon Server] - 2023-11-10T20:43:03.338Z - [REQUEST]: .~db.json
+[NX Daemon Server] - 2023-11-10T20:43:03.425Z - Time taken for 'hash changed files from watcher' 9.634499999694526ms
+[NX Daemon Server] - 2023-11-10T20:45:22.155Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:45:22.159Z - [WATCHER]: imp.txt was deleted
+[NX Daemon Server] - 2023-11-10T20:45:22.334Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-10T20:45:22.336Z - [WATCHER]: imp.txt was created or restored
+[NX Daemon Server] - 2023-11-10T20:45:22.382Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-10T20:45:22.383Z - [REQUEST]: imp.txt
+[NX Daemon Server] - 2023-11-10T20:45:22.383Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-10T20:45:22.543Z - Time taken for 'hash changed files from watcher' 0.33839999977499247ms
+[NX Daemon Server] - 2023-11-10T21:07:40.759Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-10T21:07:40.959Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-10T21:07:41.437Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-11-11T04:14:25.990Z - Started listening on: \\.\pipe\nx\C:\Users\Urvesh\AppData\Local\Temp\77c57bbb3c82ff2e958d\d.sock
+[NX Daemon Server] - 2023-11-11T04:14:26.283Z - [WATCHER]: Subscribed to changes within: f:\dealer-stock-management (native)
+[NX Daemon Server] - 2023-11-11T04:14:26.284Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-11T04:14:26.286Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-11T04:14:26.288Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-11T04:14:26.591Z - [REQUEST]: Client Request for Project Graph Received
